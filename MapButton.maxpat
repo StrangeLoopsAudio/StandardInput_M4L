@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 77.0, 132.0, 622.0, 753.0 ],
+		"rect" : [ 87.0, 132.0, 646.0, 753.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -79,7 +79,8 @@
 					"annotation" : "Unmaps the currently mapped parameter.",
 					"annotation_name" : "Unmap",
 					"appearance" : 2,
-					"fontsize" : 6.0,
+					"fontname" : "Gurmukhi MT",
+					"fontsize" : 14.0,
 					"hidden" : 1,
 					"id" : "obj-36",
 					"maxclass" : "live.text",
@@ -92,7 +93,6 @@
 					"pictures" : [ "multimap-unmap.svg", "multimap-unmap.svg" ],
 					"presentation" : 1,
 					"presentation_rect" : [ 101.840425550937653, 0.276595771312714, 15.0, 15.0 ],
-					"remapsvgcolors" : 1,
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_annotation_name" : "Unmap",
@@ -106,10 +106,8 @@
 
 					}
 ,
-					"text" : "X",
+					"text" : "x",
 					"texton" : "x",
-					"usepicture" : 1,
-					"usesvgviewbox" : 1,
 					"varname" : "live.text[2]"
 				}
 
@@ -239,8 +237,8 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 126.0, 634.0, 91.0, 22.0 ],
-					"text" : "s signalChange"
+					"patching_rect" : [ 126.0, 634.0, 103.0, 22.0 ],
+					"text" : "s ---signalChange"
 				}
 
 			}
@@ -265,7 +263,7 @@
 					"annotation" : "",
 					"bgcolor" : [ 1.0, 0.709804, 0.196078, 0.0 ],
 					"bgoncolor" : [ 1.0, 0.709804, 0.196078, 0.0 ],
-					"bordercolor" : [ 0.549019607843137, 0.549019607843137, 0.549019607843137, 1.0 ],
+					"bordercolor" : [ 0.588235294117647, 0.588235294117647, 0.588235294117647, 1.0 ],
 					"focusbordercolor" : [ 1.0, 0.709804, 0.196078, 0.0 ],
 					"hidden" : 1,
 					"id" : "obj-33",
@@ -342,7 +340,7 @@
 					"annotation" : "",
 					"bgcolor" : [ 1.0, 0.709804, 0.196078, 0.0 ],
 					"bgoncolor" : [ 1.0, 0.709804, 0.196078, 0.0 ],
-					"bordercolor" : [ 1.0, 0.709803921568627, 0.196078431372549, 1.0 ],
+					"bordercolor" : [ 0.952941176470588, 0.580392156862745, 0.125490196078431, 1.0 ],
 					"focusbordercolor" : [ 1.0, 0.709804, 0.196078, 0.0 ],
 					"id" : "obj-11",
 					"ignoreclick" : 1,
@@ -4596,7 +4594,7 @@
 					"bgcolor" : [ 1.0, 0.709804, 0.196078, 0.0 ],
 					"bgoncolor" : [ 1.0, 0.709804, 0.196078, 1.0 ],
 					"bordercolor" : [ 1.0, 0.709804, 0.196078, 1.0 ],
-					"focusbordercolor" : [ 0.313725490196078, 0.313725490196078, 0.313725490196078, 1.0 ],
+					"focusbordercolor" : [ 0.627450980392157, 0.627450980392157, 0.627450980392157, 1.0 ],
 					"id" : "obj-14",
 					"lcdbgcolor" : [ 0.117647058823529, 0.117647058823529, 0.117647058823529, 1.0 ],
 					"maxclass" : "live.text",
